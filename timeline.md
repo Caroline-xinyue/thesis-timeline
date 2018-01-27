@@ -1,0 +1,7 @@
+- 2/7: 2-page abstract
+- 2/21: Extended abstract (8-10 pages) - intro, motivation, background, literature review, your efforts to date
+- 3/7: First draft (10-12 pages)
+- 4/4: Second draft (15-20 pages)
+- 4/18: Final draft
+- 4/27: Final thesis due (firm!)
+- 5/2: Senior presentations
