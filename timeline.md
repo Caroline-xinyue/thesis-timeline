@@ -8,8 +8,10 @@
   - [ ] Efforts To Date
 
 - [ ] 3/7: First draft (10-12 pages)
+  - [ ] Most Codings Done
 
 - [ ] 4/4: Second draft (15-20 pages)
+  - [ ] All Codings Done
 
 - [ ] 4/18: Final draft
 
