@@ -2,7 +2,7 @@ Undergraduate Thesis in Computer Science
 ===============================================================================================
 Xinyue Zhang (Advised by Richard A. Eisenberg)
 
-Title: "A Tale of Two Provers": A Comparison between Two Program Verification Techniques in Dependent Haskell and F*
+Title: "A Tale of Two Provers": Comparing Program Verification Techniques in Dependent Haskell and F*
 
 Short Abstract: 
 
