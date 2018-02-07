@@ -1,4 +1,4 @@
-- [ ] 2/7: 2-page abstract
+- [x] 2/7: 2-page abstract
 
 - [ ] 2/21: Extended abstract (8-10 pages)
   - [ ] Intro
