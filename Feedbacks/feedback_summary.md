@@ -1,0 +1,22 @@
+- [ ] Definition of Haskell and F* (F* is not a version of Haskell)
+  - [ ] Haskell (TT + Dependent Types)
+  - [ ] F* (SMT + Dependent Types + Refinement Types)
+- [ ] Definition and examples of Functional Programming terms
+  - [ ] Type Safety
+  - [ ] Verification-based languages
+  - [ ] General-purposed languages (programming effects, error, IO, stateful programming ...)
+  - [ ] Dependent Types
+  - [ ] Refinement Types
+  - [ ] Type Theory
+  - [ ] Satisfiability Modulo Theory
+  - [ ] GADT
+  - [ ] Type Families
+- [ ] Purpose and Motivation
+  - [ ] Why we want to compare? What to achieve?
+  - [ ] What potential collaborations(TT v.s. SMT)? How does it help Programming Languages in general?
+  - [ ] Why we want fully-fledged dependently-typed haskell(explain what does more precise expressions of program specifications mean?)
+- [ ] Detail but not everything about the results
+- [ ] Relationship with the previous work (how the explorative work leads to the specific/focused thesis)
+- [ ] Details (Clarification)
+  - [ ] Elaborate how DH and F* are different (how they categorize programmming effects differently)
+  - [ ] Background help readers follow
