@@ -1,5 +1,5 @@
 - [ ] Definition of Haskell and F* (F* is not a version of Haskell)
-  - [ ] Haskell (TT + Dependent Types) Inspired by Martin Lof Type Theory(can only see differences in data; functions and case[bool maybe, either, list(finite set of structures){make decisions on the types introduced by `data`}])[Type Families(differentiating differences between types as int and bool)]
+  - [ ] Haskell (TT + Dependent Types) Inspired by Martin Lof Type Theory(can only see differences in data; functions and case[bool maybe, either, list(finite set of structures){make decisions on the types introduced by `data`}])[Type Families(differentiating differences between types as int and bool) etc]
   - [ ] F* (SMT + Dependent Types + Refinement Types)
 - [ ] Definition and examples of Functional Programming terms
   - [ ] Type Safety
