@@ -17,16 +17,19 @@
   languages[verfication appraoches], next step to the community
   long time dependently typed languages: since coq(longest 80s), adga, idris
   functional languages: Haskell, ML, Racket
-  motivation for the current space: practically-oriented verified programming languages -- DH, LH, F*, Idris [young field, sharing]
+  motivation for the current space: practically-oriented verified programming languages -- DH, LH, F*, Idris[these 4 are new but also functional], maybe Ada(may not be functional) [young field, sharing]
   Idris is more understood based on Martin Lof Type Theory, DH, F* non-termination, extensions to ML type theory to be more applicable [DH: Type family, typeintype; F*: effect system]
+  DH, LH, F* compared exploratively in my poster
+  
+  put resources into the right method. Is it worth it to try the other approaches
   }
   - [ ] What potential collaborations(Haskell and F* [termination])? How does it help Programming Languages in general?
   - [ ] Why we want fully-fledged dependently-typed haskell(explain what does more precise expressions of program specifications mean?)
 - [ ] Detail but not everything about the results
 - [ ] Relationship with the previous work (how the explorative work leads to the specific/focused thesis)
 - [ ] Details (Clarification)
-  - [ ] Elaborate how DH and F* are different (how they categorize programmming effects differently)
-  - [ ] Background help readers follow
+  - [ ] Elaborate how DH and F* are different (how they categorize programmming effects differently) [define effects]
+  - [ ] Background help readers follow {audience}
   - [ ] TT and SMT are not in competition (wouldn't call them mainstream)
     {TT structures for the proof building blocks; SMT powers the actual proof}
   - [ ] More Examples
