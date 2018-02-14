@@ -20,3 +20,9 @@
 - [ ] Details (Clarification)
   - [ ] Elaborate how DH and F* are different (how they categorize programmming effects differently)
   - [ ] Background help readers follow
+  - [ ] TT and SMT are not in competition (wouldn't call them mainstream)
+  - [ ] More Examples
+
+- [ ] Check contents:
+  - [ ] TT-based Dependent Haskell and SMT-based dependent-and-refinement-typed F* each represents a unique and effective program verification technique. They are similar in that they both aim towards a verification-based yet general-purposed programming language, but they are noticeably different in their unique approaches to categorize programming effects.
+  - [ ] Specify the collaborations
