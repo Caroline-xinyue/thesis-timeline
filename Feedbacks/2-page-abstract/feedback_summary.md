@@ -14,10 +14,10 @@
 - [ ] Purpose and Motivation
   - [ ] Why we want to compare? What to achieve? 
   {
-  languages[verfication appraoches], next step to the community
+  languages[verfication approaches], provide next step to the community
   long time dependently typed languages: since coq(longest 80s), adga, idris
   functional languages: Haskell, ML, Racket
-  motivation for the current space: practically-oriented verified programming languages -- DH, LH, F*, Idris[these 4 are new but also functional], maybe Ada(may not be functional) [young field, sharing]
+  motivation for the current space: lightweight, practically-oriented verified programming languages -- DH, LH, F*, Idris[these 4 are new but also functional], maybe Ada(may not be functional) [young field, sharing]
   Idris is more understood based on Martin Lof Type Theory, DH, F* non-termination, extensions to ML type theory to be more applicable [DH: Type family, typeintype; F*: effect system]
   DH, LH, F* compared exploratively in my poster
   
