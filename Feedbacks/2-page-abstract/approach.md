@@ -1,4 +1,6 @@
 On Feb 17, 2018, at 1:40 AM, Xinyue Zhang <
+
+==================================================================================
  
 On Feb 17, 2018, at 1:40 AM, Xinyue Zhang <xzhang@brynmawr.edu> wrote:
 
@@ -16,8 +18,6 @@ So, it's hard to compare termination checking, because one language (F*) has it 
 V.S. termination checking at compile time through a lattice of monadic effects using Hoare Logic in F*
 
 Whoa! A lot of terminology there. F* does have (a) termination checking, (b) a lattice of monadic effects, and (c) support for Hoare logic -- but I don't see how you're trying to connect them in this sentence (and, I suspect, neither do you).
-
-
 
 - Library/documentation supports: Is this a way to talk about Hackage for Haskell vs. <<null>> for F*? I suppose it is. But then that's not about language design.
 
@@ -51,16 +51,21 @@ So: if you want to have a clearly delineated list of aspects to compare and metr
 Thanks,
 Richard
 
- 
-
 
 Thank you again for your help!
 
 Sincerely,
+
 Xinyue
+
+==================================================================================
+
 From: Richard Eisenberg <rae@cs.brynmawr.edu>
+
 Sent: Friday, February 16, 2018 2:18:21 PM
+
 To: Xinyue Zhang
+
 Subject: Re: Regarding the 2-page thesis abstract feedback
  
 Hi Xinyue,
@@ -68,14 +73,22 @@ Hi Xinyue,
 It's not the wording -- it's your choice of metrics.
 
 - Syntactic verbosity: OK. This one is fairly apparent, but not really all that interesting.
+
 - Type system expressiveness: This is a big one! In some sense, this covers all the comparisons that you would be doing. By putting this under "language design", I'm not really sure what it means.
+
 - Library/documentation supports: Is this a way to talk about Hackage for Haskell vs. <<null>> for F*? I suppose it is. But then that's not about language design.
+
 - Adaptability of proofs: What do you mean by this? I can think of several meanings, but I'm not sure which you're thinking of. Could you expand?
+
 - Effectiveness of proofs: I'm not sure what this is. Are you worried about whether or not the proofs are sound? Are you worried about what can be proved? If it's the latter, then this is the same as type system expressiveness.
+
 - Quantified success rates: Rates of what, precisely? To be able to quantify a success rate, you need a benchmark suite. To my knowledge, none exists. We could make a benchmark suite, but then it is trivial to cook the numbers.
 
 I do think it's good to nail all this down ahead of time!
+
 Richard
+
+==================================================================================
 
 On Feb 15, 2018, at 5:37 PM, Xinyue Zhang <xzhang@brynmawr.edu> wrote:
 
