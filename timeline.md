@@ -1,11 +1,11 @@
 - [x] 2/7: 2-page abstract
 
-- [ ] 2/21: Extended abstract (8-10 pages)
-  - [ ] Intro
-  - [ ] Motivation
-  - [ ] Background
-  - [ ] Literature Review
-  - [ ] Efforts To Date
+- [x] 2/21: Extended abstract (8-10 pages)
+  - [x] Intro
+  - [x] Motivation
+  - [x] Background
+  - [x] Literature Review
+  - [x] Efforts To Date
 
 - [ ] 3/7: First draft (10-12 pages)
   - [ ] Most Codings Done
